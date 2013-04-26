@@ -1,5 +1,3 @@
-# [zeptojs.com][Zepto] - Replace JQuery
+# Zepto - Replace JQuery
 
-  [zeptojs.com]: http://zeptojs.com
-
-Stub for compiling together with your vendor libraries: `window.jQuery = Zepto`.
+`window.jQuery=Zepto` stub for compiling together with your vendor libraries.
